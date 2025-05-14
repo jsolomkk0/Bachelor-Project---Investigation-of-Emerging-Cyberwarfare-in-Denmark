@@ -1,9 +1,9 @@
 
-# README: Qualitative Research Appendices for Bachelor Project - Investigation of Emerging Cyberwarfare in Denmark
+# Qualitative Research Appendices for Bachelor Project - Investigation of Emerging Cyberwarfare in Denmark
 
 This repository contains supplementary materials and detailed documentation supporting the qualitative components of the research study. The appendices are organized into three sections, each serving a specific purpose in the overall research design.
 
----
+---$
 
 ## Appendix A – Qualitative Coding and Affinity Diagramming for Main Research
 
